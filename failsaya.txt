@@ -1,4 +1,8 @@
 nama saya izham
 
-nama dia radzi
+tiada nama radzi disini
 
+<<<<<<< HEAD
+=======
+nama awak arip
+>>>>>>> dahan
